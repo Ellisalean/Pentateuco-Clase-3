@@ -158,7 +158,7 @@ export const MODULES: Module[] = [
           { type: 'paragraph', text: 'En el monte Sinaí, Dios establece su pacto con Israel y entrega los Diez Mandamientos.' },
           { type: 'slideshow', items: [
             { image: 'https://www.lds.org/bc/content/shared/content/images/gospel-library/manual/36500/36500_all_018_01-idol.jpg', caption: '1. No tendrás dioses ajenos delante de mí. Establece la exclusividad de la adoración a Dios.' },
-            { image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdn4u17huATA7PbS9IgTxKB1pUHTd0vBgzWw&s', caption: '2. No te harás imagen ni ninguna semejanza. Prohíbe la creación y adoración de ídolos.' },
+            { image: 'https://cdn.myportfolio.com/d435fa58-d32c-4141-8a15-0f2bfccdea41/900a9dea-7e6f-40a9-83a4-9282fab22c94_rw_1920.jpg?h=b2b7bc183c1696c35d8d2acdafb04ea2', caption: '2. No te harás imagen ni ninguna semejanza. Prohíbe la creación y adoración de ídolos.' },
             { image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs4F3HLpLmbgnZwSO20zbGZ8-J-9TMgIDS3cqDlMaM7sQgbRTDjxLrEY7NcXKCqQpjquUZ9RMmfDP96KZj9UknPi4oMy2Kux7hWeW1bzxNeHSYGFBbAKrXqotMd8Po9vAqXoE71_5dxqg/s960/135807846_3946997078657622_42499007682705736_n.jpg', caption: '3. No tomarás el nombre de Jehová tu Dios en vano. Exige reverencia por el nombre de Dios.' },
             { image: 'https://branham.org/azure/branham/55fa952c-e5c1-4b0c-b8f4-804090d163bb.jpg', caption: '4. Acuérdate del día de reposo para santificarlo. Día de descanso y adoración.' },
             { image: 'https://www.residenciabelosoalto.es/wp-content/uploads/2021/01/honraras.jpg', caption: '5. Honra a tu padre y a tu madre. Respeto familiar, base social.' },
