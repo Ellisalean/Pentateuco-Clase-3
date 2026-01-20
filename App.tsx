@@ -147,7 +147,7 @@ const App: React.FC = () => {
         </div>
 
         <footer className="py-12 text-center text-gray-400 text-sm px-4">
-          <p>© 2025 Latin Theological Seminary - BibliaConnect | Estudio del Éxodo</p>
+          <p>© 2025 Latin Theological Seminary - Pentateuco | Clase 3</p>
         </footer>
       </main>
     </div>
